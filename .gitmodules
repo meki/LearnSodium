@@ -1,0 +1,3 @@
+[submodule "sodium-cxx"]
+	path = sodium-cxx
+	url = https://github.com/SodiumFRP/sodium-cxx.git
